@@ -11,6 +11,7 @@ class BaseClass{
         this.image = loadImage("sprites/base.png");
         World.add(world, this.body);
       }
+      //comments
       display(){
         var angle = this.body.angle;
         push();

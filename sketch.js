@@ -9,6 +9,7 @@ var backgroundImg,platform;
 function preload() {
     backgroundImg = loadImage("sprites/bg.png");
 }
+//comments
 
 function setup(){
     var canvas = createCanvas(1200,400);
